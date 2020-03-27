@@ -1,2 +1,1 @@
-# the-hero
 # BeTheHero
